@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Digital by H.Neemann -->
+<!-- created: Mon Dec 30 16:48:07 CET 2024 -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="115.2mm"
+   height="72.75mm"
+   viewBox="238 157 768 485">
+<g stroke-linecap="square">
+<path d="M 920,500 L 980,380 L 980,220 L 440,220" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,320 L 880,320 L 880,440" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,400 L 840,400 L 840,440" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,560 L 740,560 L 740,620 L 880,620 L 880,580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,480 L 780,480 L 780,580 L 840,580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,280 L 900,280 L 900,440" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,360 L 860,360 L 860,440" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,600 L 720,600 L 720,640 L 900,640 L 900,580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,520 L 760,520 L 760,600 L 860,600 L 860,580" stroke="#0000b2" stroke-width="4.0" fill="none"/>
+<path d="M 440,230 L 440,210" stroke="#000000" stroke-width="6.0" fill="none"/>
+<g>
+</g>
+<g>
+<path d="M 409,265 L 439,265 L 439,295 L 409,295 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="424.0" cy="280.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="395.0" y="289.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">Digital<tspan style="font-size:80%;baseline-shift:sub;">13</tspan></tspan></text>
+<circle cx="440.0" cy="280.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 409,305 L 439,305 L 439,335 L 409,335 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="424.0" cy="320.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="395.0" y="329.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">Digital<tspan style="font-size:80%;baseline-shift:sub;">12</tspan></tspan></text>
+<circle cx="440.0" cy="320.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 409,345 L 439,345 L 439,375 L 409,375 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="424.0" cy="360.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="395.0" y="369.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">Digital<tspan style="font-size:80%;baseline-shift:sub;">11</tspan></tspan></text>
+<circle cx="440.0" cy="360.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 409,385 L 439,385 L 439,415 L 409,415 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="424.0" cy="400.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="395.0" y="409.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">Digital<tspan style="font-size:80%;baseline-shift:sub;">10</tspan></tspan></text>
+<circle cx="440.0" cy="400.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 409,465 L 439,465 L 439,495 L 409,495 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="424.0" cy="480.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="395.0" y="489.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">Digital<tspan style="font-size:80%;baseline-shift:sub;">08</tspan></tspan></text>
+<circle cx="440.0" cy="480.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 409,505 L 439,505 L 439,535 L 409,535 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="424.0" cy="520.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="395.0" y="529.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">Digital<tspan style="font-size:80%;baseline-shift:sub;">07</tspan></tspan></text>
+<circle cx="440.0" cy="520.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 409,545 L 439,545 L 439,575 L 409,575 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="424.0" cy="560.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="395.0" y="569.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">Digital<tspan style="font-size:80%;baseline-shift:sub;">06</tspan></tspan></text>
+<circle cx="440.0" cy="560.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 409,585 L 439,585 L 439,615 L 409,615 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<circle cx="424.0" cy="600.0" r="9.0" stroke="#000000" stroke-width="4.0" fill="none" />
+<text text-anchor="end" x="395.0" y="609.0" fill="#000000" style="font-size:24px"><tspan style="font-style:italic;">Digital<tspan style="font-size:80%;baseline-shift:sub;">05</tspan></tspan></text>
+<circle cx="440.0" cy="600.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<circle cx="440.0" cy="220.0" r="2.0" stroke="#b20000" stroke-width="4.0" fill="#b20000" />
+</g>
+<g>
+<path d="M 910,579 L 830,579 L 830,441 L 910,441 Z" stroke="#000000" stroke-width="4.0" fill="none"/>
+<path d="M 887.96,575 L 847.2,575 L 841.85,569.39 L 847.72,563.78 L 888.48,563.78 L 893.83,569.39 Z" stroke="#ff0000" stroke-width="0.0" fill="#ff0000" fill-opacity="1.0"/>
+<path d="M 840.51,567.99 L 835.16003,562.38 L 837.26,517.01 L 843.13,511.4 L 848.48,517.01 L 846.38,562.38 Z" stroke="#ff0000" stroke-width="0.0" fill="#ff0000" fill-opacity="1.0"/>
+<path d="M 843.26,508.6 L 837.91,502.99 L 840,457.62 L 845.87,452.01 L 851.22,457.62 L 849.12,502.99 Z" stroke="#ff0000" stroke-width="0.0" fill="#ff0000" fill-opacity="1.0"/>
+<path d="M 893.45,456.22 L 852.68,456.22 L 847.33,450.61 L 853.2,445 L 893.96,445 L 899.31,450.61 Z" stroke="#ff0000" stroke-width="0.0" fill="#ff0000" fill-opacity="1.0"/>
+<path d="M 898.04,508.6 L 892.69,502.99 L 894.78,457.62 L 900.64,452.01 L 905.99,457.62 L 903.9,502.99 Z" stroke="#ff0000" stroke-width="0.0" fill="#ff0000" fill-opacity="1.0"/>
+<path d="M 895.3,567.99 L 889.95,562.38 L 892.04,517.01 L 897.91,511.4 L 903.25,517.01 L 901.15,562.38 Z" stroke="#ff0000" stroke-width="0.0" fill="#ff0000" fill-opacity="1.0"/>
+<path d="M 890.7,515.61 L 849.94,515.61 L 844.59,510 L 850.46,504.39 L 891.22,504.39 L 896.57,510 Z" stroke="#ff0000" stroke-width="0.0" fill="#ff0000" fill-opacity="1.0"/>
+<circle cx="838.0" cy="449.0" r="4.0" stroke="#ff0000" stroke-width="0.0" fill="#ff0000" />
+<circle cx="900.0" cy="580.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="880.0" cy="580.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="860.0" cy="580.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="840.0" cy="580.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="900.0" cy="440.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="880.0" cy="440.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="860.0" cy="440.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+<circle cx="840.0" cy="440.0" r="2.0" stroke="#0000b2" stroke-width="4.0" fill="#0000b2" />
+</g>
+<g>
+<text text-anchor="start" x="620.0" y="378.0" fill="#000000" style="font-size:24px">5 Ohm</text>
+</g>
+<g>
+<text text-anchor="start" x="620.0" y="298.0" fill="#000000" style="font-size:24px">5 Ohm</text>
+</g>
+<g>
+<text text-anchor="start" x="620.0" y="338.0" fill="#000000" style="font-size:24px">5 Ohm</text>
+</g>
+<g>
+<text text-anchor="start" x="620.0" y="418.0" fill="#000000" style="font-size:24px">5 Ohm</text>
+</g>
+<g>
+<text text-anchor="start" x="620.0" y="498.0" fill="#000000" style="font-size:24px">5 Ohm</text>
+</g>
+<g>
+<text text-anchor="start" x="620.0" y="538.0" fill="#000000" style="font-size:24px">5 Ohm</text>
+</g>
+<g>
+<text text-anchor="start" x="620.0" y="578.0" fill="#000000" style="font-size:24px">5 Ohm</text>
+</g>
+<g>
+<text text-anchor="start" x="620.0" y="618.0" fill="#000000" style="font-size:24px">5 Ohm</text>
+</g>
+<g>
+<text text-anchor="start" x="920.0" y="598.0" fill="#000000" style="font-size:24px" transform="rotate(-90,920.0,580.0)" >GND pin</text>
+<text text-anchor="start" x="950.0" y="598.0" fill="#000000" style="font-size:24px" transform="rotate(-90,950.0,580.0)" >depends on</text>
+<text text-anchor="start" x="980.0" y="598.0" fill="#000000" style="font-size:24px" transform="rotate(-90,980.0,580.0)" >Display hardware</text>
+</g>
+<g>
+<text text-anchor="start" x="242.0" y="177.0" fill="#000000" style="font-size:24px">Arduino Uno</text>
+<path d="M 240,180 L 460,180 L 460,640 L 240,640 Z" stroke-dasharray="4.0,4.0" stroke="#000000" stroke-width="1.0" fill="none"/>
+</g>
+</g>
+</svg>
